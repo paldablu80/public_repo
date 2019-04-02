@@ -35,6 +35,10 @@ class DemoController extends CI_Controller{
 	{
 	        echo "_utility";
 	}
+
+	public function latest_function(){
+		echo "latest_function";
+	}
 }
 
 
